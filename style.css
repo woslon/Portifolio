@@ -272,4 +272,7 @@ section {
     .projeto h3 {
         font-size: 1.2em;
     }
+  #contato{
+  flex-wrap:warap;
+ }
 }
