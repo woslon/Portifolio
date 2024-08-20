@@ -2,7 +2,7 @@
 body {
     background-color: #d1bbbb;
     color: #00aaff;
-width:100%;
+width:80%;
     font-family: 'Courier New', Courier, monospace;
     margin: 0;
     padding: 0;
@@ -238,7 +238,7 @@ section {
     }
 }
 
-@media screen and (max-width: 380px) {
+@media screen and (max-width: 480px) {
     header h1 {
         font-size: 2em;
     }
