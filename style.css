@@ -273,6 +273,7 @@ section {
         font-size: 1.2em;
     }
   #contato{
-  flex-wrap:warap;
+  display:flex;
+  flex-direction: column;
  }
 }
