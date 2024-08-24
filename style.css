@@ -272,7 +272,7 @@ section {
     .projeto h3 {
         font-size: 1.2em;
     }
-  #contato{
+  #contato a{
   display:flex;
   flex-direction: column;
  }
